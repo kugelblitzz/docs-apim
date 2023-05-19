@@ -1,10 +1,12 @@
 # Learn Integration
 
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
 See the topics in the following sections for details and instructions.
 
-### Integration Use Cases
+## Integration Use Cases
 
-Learn about the main integration capabilities of the WSO2 Micro Integrator. You can also follow the [tutorials](#integration-tutorials) on each of these use cases to gain hands-on knowledge.
+Learn about the main integration capabilities of the Micro Integrator. You can also follow the [tutorials](#integration-tutorials) on each of these use cases to gain hands-on knowledge.
 
 <div>
     <div class="content">
@@ -96,24 +98,9 @@ Learn about the main integration capabilities of the WSO2 Micro Integrator. You 
     </div>
 </div>
 
-### Integration Tutorials
+## Integration Tutorials
 
 Learn how to implement various integration use cases, deploy them in the Micro Integrator, and test them locally.
-
--   API-led Integration tutorials
-
-    <table>
-    <tr>
-        <td>
-            <a href="{{base_path}}/tutorials/integration-tutorials/service-catalog-tutorial">Exposing an Integration Service as a Managed API</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="{{base_path}}/tutorials/integration-tutorials/service-catalog-tutorial-for-proxy-services">Exposing an Integration SOAP Service as a Managed API</a>
-        </td>
-    </tr>
-    </table>
 
 -   Message mediation tutorials
 
@@ -141,7 +128,7 @@ Learn how to implement various integration use cases, deploy them in the Micro I
         </tr>
     </table>
 
-### Integration Examples
+## Integration Examples
 
 <table>
     <tr>
